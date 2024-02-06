@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707249173 source:d:\courses\my_path\embedded-systems\codes\problem-solving\hacker_rank_problems\hakcker\main.c
+	<assert.h>
+	<ctype.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
