@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707505446 source:d:\courses\my_path\embedded-systems\codes\problem-solving\hackerrank-solutions-with-c\certificates\problem-solvinf-intermidiate\1_bitwise_and\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+
